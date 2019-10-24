@@ -32,7 +32,7 @@ body {
 
 .calendar > div:nth-child(1)::after {
   content: "1";
-  font-family: "Arial";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -44,7 +44,7 @@ body {
 
 .calendar > div:nth-child(2)::after {
   content: "2";
-  font-family: "Arial";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -56,7 +56,7 @@ body {
 
 .calendar > div:nth-child(3)::after {
   content: "3";
-  font-family: "Arial";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -68,7 +68,7 @@ body {
 
 .calendar > div:nth-child(4)::after {
   content: "4";
-  font-family: "Arial";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -80,7 +80,7 @@ body {
 
 .calendar > div:nth-child(5)::after {
   content: "5";
-  font-family: "Arial";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -92,7 +92,7 @@ body {
 
 .calendar > div:nth-child(6)::after {
   content: "6";
-  font-family: "Arial";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -104,7 +104,7 @@ body {
 
 .calendar > div:nth-child(7)::after {
   content: "7";
-  font-family: "Arial";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -116,7 +116,7 @@ body {
 
 .calendar > div:nth-child(8)::after {
   content: "8";
-  font-family: "Arial";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -128,7 +128,7 @@ body {
 
 .calendar > div:nth-child(9)::after {
   content: "9";
-  font-family: "Arial";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -140,7 +140,7 @@ body {
 
 .calendar > div:nth-child(10)::after {
   content: "10";
-  font-family: "Arial";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -152,7 +152,7 @@ body {
 
 .calendar > div:nth-child(11)::after {
   content: "11";
-  font-family: "Arial";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -164,7 +164,7 @@ body {
 
 .calendar > div:nth-child(12)::after {
   content: "12";
-  font-family: "Arial";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -176,7 +176,7 @@ body {
 
 .calendar > div:nth-child(13)::after {
   content: "13";
-  font-family: "Arial";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -188,7 +188,7 @@ body {
 
 .calendar > div:nth-child(14)::after {
   content: "14";
-  font-family: "Arial";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -200,7 +200,7 @@ body {
 
 .calendar > div:nth-child(15)::after {
   content: "15";
-  font-family: "Arial";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -212,7 +212,7 @@ body {
 
 .calendar > div:nth-child(16)::after {
   content: "16";
-  font-family: "Arial";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -224,7 +224,7 @@ body {
 
 .calendar > div:nth-child(17)::after {
   content: "17";
-  font-family: "Arial";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -236,7 +236,7 @@ body {
 
 .calendar > div:nth-child(18)::after {
   content: "18";
-  font-family: "Arial";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -248,7 +248,7 @@ body {
 
 .calendar > div:nth-child(19)::after {
   content: "19";
-  font-family: "Arial";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -260,7 +260,7 @@ body {
 
 .calendar > div:nth-child(20)::after {
   content: "20";
-  font-family: "Arial";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -272,7 +272,7 @@ body {
 
 .calendar > div:nth-child(21)::after {
   content: "21";
-  font-family: "Arial";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -284,7 +284,7 @@ body {
 
 .calendar > div:nth-child(22)::after {
   content: "22";
-  font-family: "Arial";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -296,7 +296,7 @@ body {
 
 .calendar > div:nth-child(23)::after {
   content: "23";
-  font-family: "Arial";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -308,7 +308,7 @@ body {
 
 .calendar > div:nth-child(24)::after {
   content: "24";
-  font-family: "Arial";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -320,7 +320,7 @@ body {
 
 .calendar > div:nth-child(25)::after {
   content: "25";
-  font-family: "Arial";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -332,7 +332,7 @@ body {
 
 .calendar > div:nth-child(26)::after {
   content: "26";
-  font-family: "Arial";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -344,7 +344,7 @@ body {
 
 .calendar > div:nth-child(27)::after {
   content: "27";
-  font-family: "Arial";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -356,7 +356,7 @@ body {
 
 .calendar > div:nth-child(28)::after {
   content: "28";
-  font-family: "Arial";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -368,7 +368,7 @@ body {
 
 .calendar > div:nth-child(29)::after {
   content: "29";
-  font-family: "Arial";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -380,7 +380,7 @@ body {
 
 .calendar > div:nth-child(30)::after {
   content: "30";
-  font-family: "Arial";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -392,7 +392,7 @@ body {
 
 .calendar > div:nth-child(31)::after {
   content: "31";
-  font-family: "Arial";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
