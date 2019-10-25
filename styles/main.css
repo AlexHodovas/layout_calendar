@@ -415,21 +415,21 @@ body {
   margin-left: 0px; }
 
 .calendar-tue > div:first-child {
-  margin-left: 100px; }
+  margin-left: 101px; }
 
 .calendar-wed > div:first-child {
-  margin-left: 200px; }
+  margin-left: 202px; }
 
 .calendar-thu > div:first-child {
-  margin-left: 300px; }
+  margin-left: 303px; }
 
 .calendar-fri > div:first-child {
-  margin-left: 400px; }
+  margin-left: 404px; }
 
 .calendar-sat > div:first-child {
-  margin-left: 500px; }
+  margin-left: 505px; }
 
 .calendar-sun > div:first-child {
-  margin-left: 600px; }
+  margin-left: 606px; }
 
 /*# sourceMappingURL=main.css.map */
